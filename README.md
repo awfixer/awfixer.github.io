@@ -1,7 +1,6 @@
 ## Hi there 👋, My name is Coal-Coloured Judgement Crow
 ### I am a Techie from America
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubixcube199)](https://github.com/anuraghazra/github-readme-stats)
 
 Skills: Linux/Windows/MacOS
 
