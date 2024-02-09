@@ -23,4 +23,4 @@ Skills: Linux/BSD/Windows/MacOS
 ##### [this Site](rubixcube199.github.io)
 ### My Github is [HERE](https://github.com/rubixcube199)
 
-yes this is a lot like my README.md an will get remade sooner then later annoy me here in [Discord](https://discord.gg/yogi) if you want it done
+Links are in my [Discord](https://discord.gg/yogi) Server I will not put them here because it is a lot of work, figured it out when writing this
