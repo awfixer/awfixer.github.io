@@ -29,3 +29,5 @@ Skills: Linux/Windows/MacOS
 
 ##### [this Site](rubixcube199.github.io)
 # My Github is [HERE](https://github.com/rubixcube199)
+
+yes this is a lot like my README.md an will get remade sooner then later
