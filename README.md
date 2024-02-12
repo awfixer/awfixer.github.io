@@ -6,7 +6,7 @@ Skills: Linux/BSD/Windows/MacOS
 
 - 🔭 I’m currently working on Building a [Discord](https://discord.gg/yogi) Server
 - 🌱 I’m currently learning Everything, or nothing when I am sleeping
-- 👯 I’m looking to collaborate on Work, or in my [Discord](https://discord.gg/yogi) Server
+- 👯 I’m looking to collaborate on Work, or in my [Discord](https://discord.gg/yogi) Server.
 - 🤔 I’m looking for help with Money, so like if there is a money link then great lol
 - 💬 Ask me about Why I had a Stroke, if you dare
 - 📫 How to reach me: [Discord](https://discord.gg/yogi)
