@@ -1,6 +1,6 @@
 #### Allow me to introduce myself – I'm Crow, a vibrant resident of the United States, celebrated for my technological prowess and savvy. You'll often find me preferring the friendly moniker Crow over my formal name, Coal-Coloured Judgement Crow. I embody a delightful blend of expertise and finesse in navigating the digital landscape. With an innate aptitude for all aspects of technology, I emerge as a cheerful and formidable figure amidst the ever-evolving realm of modern innovation. Whether I'm unraveling intricate coding languages or effortlessly troubleshooting complex systems, my skillset illuminates the digital domain with unparalleled expertise and a cheerful demeanor. Join me on an exciting exploration of technology's multifaceted realm through my own delightful lens.
 
-#### I am a Techie from America, I use Arch Linux and Hyprland normally, my desktops are in my [Discord](https://discord.com/invite/GTeVsV2vZd) Server but I use most things not based on Red Hat Linux
+#### I am a Techie from America, I use Arch Linux and Hyprland normally, my desktops are in my [Discord](https://discord.com/invite/2vM4z4TqSE) Server but I use most things not based on Red Hat Linux
 
   
   
@@ -13,17 +13,17 @@ Skills: Linux/BSD/Windows/MacOS, Management, Reading/Literature
 
 - 🌱 I’m currently learning Everything, or nothing when I am sleeping
 
-- 👯 I’m looking to collaborate on Work, or in my [Discord](https://discord.gg/yogi) Server.
+- 👯 I’m looking to collaborate on Work, or in my [Discord](https://discord.com/invite/2vM4z4TqSE) Server.
 
 - 🤔 I’m looking for help with Money, so like if there is a money link then great lol
 
 - 💬 Ask me about Why I had a Stroke, if you dare
 
-- 📫 How to reach me: [Discord](https://discord.com/invite/GTeVsV2vZd)
+- 📫 How to reach me: [Discord](https://discord.com/invite/2vM4z4TqSE)
 
 - 😄 Pronouns: They/Them/It/Any
 
-- ⚡ Fun fact: I am Autistic, and I own a [Discord](https://discord.com/invite/GTeVsV2vZd) Server
+- ⚡ Fun fact: I am Autistic, and I own a [Discord](https://discord.com/invite/2vM4z4TqSE) Server
 
   
   
@@ -44,7 +44,7 @@ Skills: Linux/BSD/Windows/MacOS, Management, Reading/Literature
 
   
 
-Links are in my [Discord](https://discord.com/invite/GTeVsV2vZd) Server, as well as here
+Links are in my [Discord](https://discord.com/invite/2vM4z4TqSE) Server, as well as here
 
 [Github](https://github.com/rubixcube199)
 
