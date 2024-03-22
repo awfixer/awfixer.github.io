@@ -53,7 +53,53 @@ Links are in my [Discord](https://discord.com/invite/2vM4z4TqSE) Server, as well
 [telegram](https://t.me/imnotreallygir)
 ###### A "techie" can be described as an individual proficient in various aspects of technology, demonstrating a keen aptitude and a persistent thirst for ongoing learning and advancement within the field.
 
+## Self Advertisement Area
+
+I believe that my blend of intelligence, self-drive, and unwavering motivation would make me an exceptional addition to your esteemed company. With a fervent commitment to excellence in every endeavor I undertake, I approach tasks with a meticulous attention to detail and a relentless pursuit of perfection. My innate ability to adapt to new challenges and learn quickly ensures that I am always at the forefront of innovation and development. As a self-driven individual, I thrive in environments where initiative is valued, consistently demonstrating a proactive approach to problem-solving and a determination to exceed expectations. With these attributes, I am confident that I would not only meet but surpass the demands of any role within your organization, contributing positively to its success and growth.
+
+When it comes to talking, I don't do much rather believing what I do does most of the talking for me
+
+
+###### Languages Known, Used:
+- Python
+- JavaScript
+- Java
+- C++
+- HTML
+- CSS
+- JSON
+
+Linux Distrobutions, and Features Known:
+- Arch Linux
+- Red Hat Enterprise Linux
+- Linux Mint
+- Debian
+- Ubuntu
+- Fedora
+- SUSE
+- OpenSUSE
+- Gnome
+- KDE Plasma
+- Hyprland
+- X11
+- Wayland
+
+Operating Systems Understood
+- IOS
+- MacOS
+- IpadOS
+- Android
+- Gentoo Linux
+- Debian Linux
+- Ubuntu Linux
+- Arch Linux
+- SUSE Linux
+- RHEL
+- Microsoft Windows
+- Microsoft Windows Server
+- Microsoft Windows LTSC
+
 final note, I change my Display name a lot, but I will allways respond to Coal-Coloured Judgement Crow
 
-if you are interesting in Employing me, you can find me in my Discord Server, my current username is **imnotreallygir***
+if you are interesting in Employing me, you can find me in my Discord Server, my current username is **imnotreallygir**
 
