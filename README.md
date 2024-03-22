@@ -60,7 +60,7 @@ I believe that my blend of intelligence, self-drive, and unwavering motivation w
 When it comes to talking, I don't do much rather believing what I do does most of the talking for me
 
 
-###### Languages Known, Used:
+### Languages Known, Used:
 - Python
 - JavaScript
 - Java
@@ -69,7 +69,7 @@ When it comes to talking, I don't do much rather believing what I do does most o
 - CSS
 - JSON
 
-Linux Distrobutions, and Features Known:
+### Linux Distrobutions, and Features Known:
 - Arch Linux
 - Red Hat Enterprise Linux
 - Linux Mint
@@ -84,22 +84,41 @@ Linux Distrobutions, and Features Known:
 - X11
 - Wayland
 
-Operating Systems Understood
-- IOS
-- MacOS
-- IpadOS
-- Android
-- Gentoo Linux
-- Debian Linux
-- Ubuntu Linux
-- Arch Linux
-- SUSE Linux
-- RHEL
-- Microsoft Windows
-- Microsoft Windows Server
-- Microsoft Windows LTSC
+### Operating Systems Understood
+- **IOS**
+- **MacOS**
+- **IpadOS**
+- **Android**
+- **GrapheneOS**
+- **AOSP**
+- **Gentoo Linux**
+- **Debian Linux**
+- **Ubuntu Linux**
+- **Arch Linux**
+- **SUSE Linux**
+- **RHEL**
+- **Slackware Linux**
+- **Solus Linux**
+- **Oracle**
+- **Microsoft Windows**
+- **Microsoft Windows Server**
+- **Microsoft Windows LTSC**
+
+### Work Experiance
+*or lack there of*
+
+I have never worked a formal Job, I have been self employed and done a lot of project work, on things like [AxylOS](https://axyl-os.github.io) and Personal Projects, I have, or have had an LPIC, A+, Linux+, CCNA, and other Certificates.
 
 final note, I change my Display name a lot, but I will allways respond to Coal-Coloured Judgement Crow
 
 if you are interesting in Employing me, you can find me in my Discord Server, my current username is **imnotreallygir**
 
+
+# Things I Enjoy:
+- **Gir from Invader Zim**
+- **Coal-Coloured Judgement Crow**
+- **Psycology**
+- **Linux**
+
+#### Links to Videos I Like
+- *Coming Soon...*
