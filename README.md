@@ -18,4 +18,4 @@ You can find me in the following places:
 
 [Signal](https://signal.group/#CjQKIFdQdBJTCxMLnFeby_KPdJLrDGnaX26NCOg9p9DLfLcoEhDQsxDSSzaQsPfcYs5eY0D3)
 
-[GitHub](https://GitHub.com/axylos
+[GitHub](https://GitHub.com/axylos)
