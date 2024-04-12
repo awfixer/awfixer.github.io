@@ -1,25 +1,22 @@
-## Hi there, let me Introduce Myself
+## Hello 👋 I'm Coal-Coloured Judgement Crow, or Crow for short.
 
-### I'm Coal-Coloured Judgement Crow, or Crow, or Gir
+I specialize in Automation of Technical Tasks and Zero Trust Security.
 
-I'm a Full Stack Developer and I Specialize in Automation
+I have several projects I am working on right now that you can view to see what I do on a day to day basis they are referenced below:
 
-# I'm Available for Hire, if you want to hire me find me below
+AxylOS
+Site: https://axyl.org
+Discord: https://discord.gg/axylos
 
-I'm Currently working on a Project called **AxylOS** which you can find more information on here: https://AxylOS.github.io
-
-You can find me in the following places:
-
-[Discord](https://discord.gg/axylos)
-
-[Telegram](https://t.me/axyl_os)
-
-[Matrix](https://matrix.to/#/#axyl-os-community-space:matrix.org)
-
-[Signal](https://signal.group/#CjQKIFdQdBJTCxMLnFeby_KPdJLrDGnaX26NCOg9p9DLfLcoEhDQsxDSSzaQsPfcYs5eY0D3)
-
-[GitHub](https://GitHub.com/axylos)
-
-AxylOS Discord Server Stats
-
+AxylOS Server Stats:
+(These are provided by discord and may not work)
 <iframe src="https://canary.discord.com/widget?id=901712639099543552&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+## Support my work:
+If you want to financially support my work you can use the following link, but solid PRs and help managing the projects is heavily valued too
+
+Patreon:
+
+
+Pacman Repos:
+These are repos where I store development builds of things that are used in other projects
