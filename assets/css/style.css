@@ -1,0 +1,113 @@
+html {
+  margin: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: url(assets/img/blood.gif);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: #000000;
+    color: #DC143C;
+    padding: 1in;
+}
+nav {
+    position: fixed;
+    top: 15;
+    z-index: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, #000000, #DC143C);
+    overflow: hidden;
+    border-radius:  15px;
+
+}
+nav a {
+    display: block;
+    color: #DC143C;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.content {
+    display: flex;
+    justify-content: space-around;
+}
+.Header {
+    text-align: center;
+    color: #000000;
+}
+.axyl-server-stats iframe {
+    border-radius: 15px;
+    margin: 10px;
+    margin-bottom: auto;
+}
+.axyl-server-stats {
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    height: 100vh;
+    text-align: left;
+    text-decoration-color: ##1e2124;
+}
+.dog-section {
+    display: flex;
+    justify-content: center;
+    align-items: right;
+    height: 100vh;
+    text-align: right;
+    text-decoration-color: ##1e2124;
+
+}
+.dog-section img {
+    border-radius: 15px;
+    margin: 10px;
+    margin-bottom: auto;
+}
+.call-to-action {
+    clear:both;
+    margin-top: 72px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-decoration-color: ##1e2124;
+}
+.cta-button {
+    background-color: #DC143C;
+    color: #000000;
+    border: none;
+    border-radius: 15px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.cta-button:hover {
+    background-color: #000000;
+    color: #DC143C;
+}
+
+nav {
+    background-color: #000000;
+    overflow: hidden;
+}
+nav a {
+    float: center;
+    display: block;
+    color: #DC143C;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+nav a:hover {
+    background-color: #ddd;
+    color: black;
+    text-decoration: underline
+}
