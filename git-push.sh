@@ -1,13 +1,5 @@
 #!/bin/bash
 
-#####################################
-#                                   #
-#  @author      : 00xWolf           #
-#    GitHub    : @mmsaeed509       #
-#    Developer : Mahmoud Mohamed   #
-#  﫥  Copyright : Exodia OS         #
-#                                   #
-#####################################
 
 ## ------------ COLORS ------------ ##
 
@@ -52,7 +44,7 @@ DEFAULT_BRANCH=$(git branch --show-current)
 TARGET_BRANCH=${DEFAULT_BRANCH}
 
 # get default commit message based on changes #
-DEFAULT_COMMIT_MSG=""
+DEFAULT_COMMIT_MSG="chore: update site"
 
 # IFS -> Internal Field Separator
 # IFS  in Bash. It is a special variable that determines how Bash recognizes word boundaries.
