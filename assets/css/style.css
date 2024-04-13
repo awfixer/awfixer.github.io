@@ -5,6 +5,9 @@ html {
 body {
     font-family: Arial, sans-serif;
     padding: 1in;
+    background-image: url('assets/img/blood.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 nav {
     float: right;
@@ -15,7 +18,7 @@ nav {
     background: linear-gradient(to right, #000000, #DC143C);
     overflow: hidden;
     border-radius:  15px;
-
+    justify-self: end;
 }
 nav a {
     display: grid;
@@ -43,12 +46,13 @@ nav a {
     background-color: black;
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
+    justify-content: center;
+    align-items: center;
     height: 100vh;
     text-align: left;
     text-decoration: underline;
     text-decoration-color: #1e2124;
+    margin: 0 auto;
 }
 .dog-section {
     background-color: brown;
