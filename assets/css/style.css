@@ -4,16 +4,9 @@ html {
 
 body {
     font-family: Arial, sans-serif;
-    background: url(./assets/img/blood.gif) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    color: #DC143C;
     padding: 1in;
 }
 nav {
-    position: fixed;
     top: 15;
     z-index: 100;
     display: grid;
@@ -36,6 +29,7 @@ nav a {
     justify-content: space-around;
 }
 .Header {
+    background-color: #DC143C;
     text-align: center;
     color: #000000;
 }
@@ -46,6 +40,7 @@ nav a {
     margin-bottom: auto;
 }
 .axyl-server-stats {
+    background-color: black;
     display: grid;
     flex-direction: column;
     justify-content: center;
@@ -55,9 +50,8 @@ nav a {
     text-decoration-color: #1e2124;
 }
 .dog-section {
-    position: relative;
-    top: 20px;
-    right: 20px;
+    background-color: brown;
+    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: right;
