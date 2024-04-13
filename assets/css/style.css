@@ -1,73 +1,69 @@
-html, body {
-    height: 100%;
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
     margin: 0;
-    padding: 0;
+    position: relative;
+    font-weight: normal;
+    color: #bfb0b0;
+    text-decoration-color: #728ea9;
 }
 
 body {
     text-align: center;
     font-family: Arial, sans-serif;
-    padding: 1in;
-    background-image: url('assets/img/blood.gif');
+    padding: 2rem;
+    background-image: url('/assets/img/blood.gif');
     background-repeat: no-repeat;
     background-size: cover;
-}
-nav {
-    float: right;
-    display: grid;
+    display: flex;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to right, #000000, #DC143C);
-    overflow: hidden;
-    border-radius:  15px;
-    justify-self: end;
 }
-nav a {
-    display: grid;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+
+.axyl-server-stats {
+    display: flex;
+    flex: 1;
 }
-.content {
-    display: grid;
-    justify-content: space-around;
+
+.axyl-server-stats-inner {
+    display: flex;
+    position: fixed;
+    top: 0;
+    border-radius: 15px;
+    margin: 10px 10px auto;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    text-decoration: underline;
+    z-index: 1000;
 }
-.Header {
+
+.center-section {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
     text-align: center;
     color: #000000;
 }
-.axyl-server-stats iframe {
-    float: left;
-    border-radius: 15px;
-    margin: 10px;
-    margin-bottom: auto;
-}
-.axyl-server-stats {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    text-align: left;
-    text-decoration: underline;
-    text-decoration-color: #1e2124;
-    margin: 0 auto;
-}
+
 .dog-section {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: flex-end;
+    align-items: center;
     height: auto;
     text-align: right;
     text-decoration: underline;
-    text-decoration-color: #1e2124;
-
 }
+
 .dog-section img {
     border-radius: 15px;
-    margin: 10px;
-    margin-bottom: auto;
+    margin: 10px 10px auto;
 }
 .call-to-action {
     clear:both;
@@ -76,7 +72,6 @@ nav a {
     justify-content: center;
     align-items: center;
     text-align: center;
-    text-decoration-color: #1e2124;
 }
 .cta-button {
     background-color: #DC143C;
@@ -104,7 +99,25 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
+
 }
+
+nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, #000000, #DC143C);
+    border-radius:  15px;
+    z-index: 1000;
+    align-self: flex-start;
+}
+nav a {
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
 nav a:hover {
     background-color: #ddd;
     color: black;
