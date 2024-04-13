@@ -51,7 +51,7 @@ nav a {
     align-items: left;
     height: 100vh;
     text-align: left;
-    text-decoration-color: ##1e2124;
+    text-decoration-color: #1e2124;
 }
 .dog-section {
     display: flex;
@@ -59,7 +59,7 @@ nav a {
     align-items: right;
     height: 100vh;
     text-align: right;
-    text-decoration-color: ##1e2124;
+    text-decoration-color: #1e2124;
 
 }
 .dog-section img {
@@ -74,7 +74,7 @@ nav a {
     justify-content: center;
     align-items: center;
     text-align: center;
-    text-decoration-color: ##1e2124;
+    text-decoration-color: #1e2124;
 }
 .cta-button {
     background-color: #DC143C;
