@@ -41,12 +41,13 @@ nav a {
 }
 .axyl-server-stats {
     background-color: black;
-    display: grid;
+    display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    align-items: left;
+    align-items: flex-start;
     height: 100vh;
     text-align: left;
+    text-decoration: underline;
     text-decoration-color: #1e2124;
 }
 .dog-section {
@@ -54,9 +55,10 @@ nav a {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: right;
-    height: 100vh;
+    align-items: flex-end;
+    height: auto;
     text-align: right;
+    text-decoration: underline;
     text-decoration-color: #1e2124;
 
 }
