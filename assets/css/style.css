@@ -4,7 +4,7 @@ html {
 
 body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(to right, #000000, #DC143C);
+    background: url(./assets/img/blood.gif) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
