@@ -4,7 +4,7 @@ html {
 
 body {
     font-family: Arial, sans-serif;
-    background: url(https://raw.githubusercontent.com/rubixcube199/rubixcube199.github.io/main/assets/img/blood.gif);
+    background: linear-gradient(to right, #000000, #DC143C);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
