@@ -17,7 +17,7 @@ nav {
     position: fixed;
     top: 15;
     z-index: 100;
-    display: flex;
+    display: grid;
     justify-content: center;
     align-items: center;
     background: linear-gradient(to right, #000000, #DC143C);
@@ -26,14 +26,14 @@ nav {
 
 }
 nav a {
-    display: block;
+    display: grid;
     color: #DC143C;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 .content {
-    display: flex;
+    display: grid;
     justify-content: space-around;
 }
 .Header {
@@ -46,7 +46,7 @@ nav a {
     margin-bottom: auto;
 }
 .axyl-server-stats {
-    display: flex;
+    display: grid;
     flex-direction: column;
     justify-content: center;
     align-items: left;
@@ -55,7 +55,7 @@ nav a {
     text-decoration-color: #1e2124;
 }
 .dog-section {
-    display: flex;
+    display: grid;
     flex-direction: column;
     justify-content: center;
     align-items: right;
@@ -72,7 +72,7 @@ nav a {
 .call-to-action {
     clear:both;
     margin-top: 72px;
-    display: flex;
+    display: grid
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -102,7 +102,7 @@ nav {
 }
 nav a {
     float: center;
-    display: block;
+    display: grid;
     color: #DC143C;
     text-align: center;
     padding: 14px 16px;
