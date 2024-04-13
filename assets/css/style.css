@@ -4,7 +4,7 @@ html {
 
 body {
     font-family: Arial, sans-serif;
-    background: url(./assets/img/blood.gif);
+    background: url(https://raw.githubusercontent.com/rubixcube199/rubixcube199.github.io/main/assets/img/blood.gif);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -47,6 +47,7 @@ nav a {
 }
 .axyl-server-stats {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: left;
     height: 100vh;
@@ -55,6 +56,7 @@ nav a {
 }
 .dog-section {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: right;
     height: 100vh;
