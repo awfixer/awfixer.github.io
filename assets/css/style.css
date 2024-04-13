@@ -7,9 +7,7 @@ body {
     padding: 1in;
 }
 nav {
-    position: static;
     float: right;
-    top: 15;
     z-index: 100;
     display: grid;
     justify-content: center;
@@ -21,7 +19,7 @@ nav {
 }
 nav a {
     display: grid;
-    color: #DC143C;
+    color: #FFFFFF;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -45,7 +43,7 @@ nav a {
     background-color: black;
     display: grid;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: left;
     height: 100vh;
     text-align: left;
