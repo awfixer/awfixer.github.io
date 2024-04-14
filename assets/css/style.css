@@ -77,7 +77,9 @@ body {
   text-decoration: none;
   color: #ECEFF4;
   font-weight: 600;
-  font-size: 1.3em;.header .header__nav__links {
+  font-size: 1.3em;.header 
+}
+.header__nav__links {
   list-style-type: none;
   display: flex;
   flex-flow: row wrap;
@@ -96,9 +98,6 @@ body {
   color: #88C0D0;
   border-color: #88C0D0;
   background-color: rgba(0, 0, 0, 0);
-}
-  margin: 0 9px;
-  transition: all 0.25s ease-in-out;
 }
 .header .header__nav a:hover {
   color: #88C0D0;
