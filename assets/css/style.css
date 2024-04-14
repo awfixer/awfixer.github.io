@@ -146,15 +146,3 @@ body {
     background-color: #000000;
     color: #DC143C;
 }
-footer {
-    background-color: #DC143C;
-    color: #000000;
-    text-align: center;
-    padding: 10px;
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-
-}
-
