@@ -96,7 +96,7 @@ body {
   flex-flow: row wrap;
   padding: 0;
 }
-.header .header__nav__links .download a {
+.header .header__nav__links .github a {
   color: #2E3440;
   margin: 0 8px;
   background-color: #88C0D0;
@@ -105,7 +105,7 @@ body {
   border: 2px solid #88C0D0;
   transition: all 0.25s ease-in-out;
 }
-.header .header__nav__links .download a:hover {
+.header .header__nav__links .github a:hover {
   color: #88C0D0;
   border-color: #88C0D0;
   background-color: rgba(0, 0, 0, 0);
