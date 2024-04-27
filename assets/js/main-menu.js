@@ -1,29 +1,8 @@
-const burgerButton = document.querySelector(".header__nav__btn");
-const navLinks = document.querySelector(".header__nav__links");
-
-burgerButton.addEventListener("click", function () {
-  if (!this.classList.contains("responsive")) {
-    this.classList.add("responsive");
-
-    navLinks.classList.add("responsive");
-
-    navLinks.classList.add("appear");
-    navLinks.classList.remove("disappear");
-
+function toggleMenu() {
+  var menu = document.getElementById('menu');
+  if (menu.style.display === 'none') {
+    menu.style.display = 'block';
   } else {
-    this.classList.remove("responsive");
-
-    navLinks.classList.remove("responsive");
-
-    navLinks.classList.remove("appear");
-    navLinks.classList.add("disappear");
+    menu.style.display = 'none';
   }
-});
-
-navLinks.addEventListener("animationend", (e) => {
-  if (e.target.classList.contains("appear")) {
-    e.target.classList.remove("appear");
-  } else if (e.target.classList.contains("disappear")) {
-    e.target.classList.remove("disappear");
-  }
-});
+}
