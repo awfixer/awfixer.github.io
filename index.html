@@ -1,82 +1,315 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="utf-8"/>
-  <meta name="author" content="rubixcube199"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <link rel="icon" type="image/png" href="assets/img/crow.jpg">
-
-  <!-- HTML Meta Tags -->
-  <title>Coal-Coloured Judgement Crow</title>
-  <meta name="description" content="Linux and FOSS Enthusiast and Head Dev @axylos">
-
-  <!-- Facebook Meta Tags -->
-  <meta property="og:url" content="https://rubixcube199.github.io/">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="Coal-Coloured Judgement Crow">
-  <meta property="og:description" content=" Linux and FOSS Enthusiast and Head Dev @axylos">
-  <meta property="og:image" content="https://raw.githubusercontent.com/rubixcube199/rubixcube199.github.io/main/assets/img/crow.jpg">
-
-  <!-- Twitter Meta Tags -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta property="twitter:domain" content="https://rubixcube199.github.io">
-  <meta property="twitter:url" contents="https://rubixcube199.github.io">
-  <meta name="twitter:title" content="Coal-Coloured Judgement Crow">
-  <meta name="twitter:description" content="Linux and FOSS Enthusiast and head dev @axylos">
-  <meta name="twitter:image" content="https://raw.githubusercontent.com/rubixcube199/rubixcube199.github.io/main/assets/img/crow.jpg">
-
-  <!-- Importing CSS -->
-  <link rel="stylesheet" type="text/css" href="assets/css/main-style.css">
-
-  <!-- Importing JS -->
-  <script src="assets/js/main-script.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="pageTitle">Exodia OS 🇵🇸 Free Palestine</title>
+    <link rel="icon" href="./Images/Logos/with-bg/exodia-cyan-black-bg.png" type="image/icon type">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="Style/style.css">
+    <link rel="stylesheet" href="Style/animation.css">
 </head>
-<body>
-  <header style="background-color: red; padding: 20px; text-align: center;">
-    <div id="container">
-      <h1 style="color: white; text-align: center;">Coal-Coloured Judgement Crow</h1>
-        <a href="https://discord.gg/securityllc" style="color: white; text-align: center;">Discord</a>
-        <a href="https://t.me/imgir" style="color: white; text-align: center;">Telegram</a>
-    </div>
-    <div id="menu" style="display: block;">
-      <a href="index.html">Home</a>
-      <a href="/assets/html/about.html">About</a>
-      <a href="/assets/html/projects.html">Projects</a>
-      <a href="/assets/html/contact.html">Contact</a>
-      <a href="/assets/html/discord.html">Discord</a>
-    </div>
-    <div id="menu-icon" onclick="toggleMenu();">
-      <div></div>
-      <div></div>
-      <div></div>
-      <div id="text">
-        <p></p>
-      </div>
-    <footer>
-      <div class="footer section">
-        <div class="section__content">
-          <div class="footer__left">
-            <div class="footer__logo">
-              <img src="assets/img/axyl-logo.svg" alt="Axyl Logo" draggable=false>
+<body class="scrollable-element">
+    <!--NAVbar-->
+ <div class="header-photo">
+    <div class="gradint">
+    <header class="nav">
+        <div class="container">
+            <div class="row nav-back  h-100 d-flex justify-content-between align-items-center">
+                <div class="logo col-2"><div class="logo-back"><a href=""><img src="./Images/Logos/exodia-cyan.png" alt=""></a></div></div>
+                <div class="nav-list col-7 d-flex justify-content-between align-items-center  ">
+                    <ul class="d-flex justify-content-between gap-5 mt-3">
+                        <li class="go-commun"><a class="go-commun" href="#">Community</a></li>
+                        <li><a href="https://exodia-os.github.io/wiki" target="_blank">Wiki</a></li>
+                        <li><a href="https://exodia-os.github.io/wiki/docs/keybinding/Keybinding"  target="_blank">Keybinding</a></li>
+                        <li><a href="Gallery.html"  target="_blank">Gallery</a></li>
+                        <li><a href="team.html"  target="_blank">About us</a></li>
+                    </ul>
+                    <div class="download"><button class="nav-btn btn">Download</button></div>
+                </div>
+                
+            </div>
+        </div>
+    </header>
+
+<!-- Header-content -->
+    <div class=" header-contet pt-5 ">
+        <div class="container h-100">
+            <div class="header-text text-center d-flex flex-column justify-content-center align-items-center text-light">
+                <p>Exodia OS</p>
+                <h1 class="typed-os h-grad">An OS for <span class="auto-type"></span></h1>
+                <p id="p-light">A highly customized arch-based distro For All Cybersecurity fields.</p>
+                <div class="header-buttons d-flex gap-3">
+                    <button class="head-fbtn ">Download</button>
+                    <button class="head-sbtn">Wiki</a></button>
+                </div>
+            </div>
+        </div>
+     </div>
+  </div> 
+ </div>
+
+ <!-- About -->
+<section class="about">
+
+        <div class="internal-box container d-flex flex-column align-items-center p-4">
+
+            <h1 class="h-grad">About</h1>
+
+            <div id="p-light" class="about-ptext-right py-4">
+
+                <p><span class="cap-l">Exodia OS</span> is a highly customized <SPan class="cap-l">Arch-based </SPan> Linux distribution built for and by cybersecurity experts, and also for daily usage, capable of performing the strongest <SPan class="cap-l">pentests</SPan> and the simplest <span class="cap-l">daily tasks </span>. Even if you're not a cybersecurity fanatic, you'll come to love Exodia OS for it's <span class="cap-l">aesthetically pleasing </span>interface, tools, and features. Overall, Exodia OS is a great distro choice for <span class="cap-l">programming</span> and development, operations security, OSINT, and of course <span class="cap-l">daily usage.</span>
+                <br> <span class="cap-l-l">Proudly developed in <span class="cap-l">Egypt</span> </span> 🇪🇬 <span class="cap-l-l">by <span class="cap-l">Cyb3rTh1eveZ</span> Team.</span> </p>
+
             </div>
 
-            <div class="footer-copyright">
-              <div>
-                <i class="fas fa-copyright"></i> 2024 The Axyl Team
-                and <a href="https://github.com/rubixcube199">rubixcube199</a>.
-              </div>
-              <div>
-                Linux® is a registered trademark of Linus Torvalds.
-              </div>
+            <div class="about-img d-flex justify-content-center align-items-center">
+
+                <img src="./Images/desktop.png" alt="">
+
             </div>
-          </div>
-          <div class="footer-right">
-            <ul class="quick-links">
-              <li><strong>Socials</strong></li>
-              <li><a href="https://discord.gg/securityllc">Discord</a></li>
-              <li><a href="https://github.com/rubixcube199">GitHub</a></li>
-              <li><a href="https://t.me/imnotreallygir">Telegram</a></li>
+
+        </div>
+
+</section>
+
+ <!-- cards -->
+ <section class="cards  m-4">
+
+     <div class="container ">
+
+        <div class="row container mb-5 d-flex justify-content-between">
+
+            <div class="col-3 card-cards text-center p-3">
+
+                <h2 class="cap-l-l ">PowerShell</h2>
+
+                <p id="p-light">
+                    <br>Microsoft PowerShell   pre-installed <br> pre-configured with Oh My Posh.
+                </p>
+
+            </div>
+
+            <div class="col-3 card-cards text-center p-3">
+
+                <h2 class="cap-l-l ">TUI Apps</h2>
+
+                <p id="p-light">
+                    <br>Support a whole bunch of TUI Apps RUN:
+                    <br> <code class="code-grad" style=" background-color: #010D16; color: #05EEFF;">pacman -Sg Exodia-TUI-Apps</code>
+                    <br>to list all available apps
+                </p>
+
+            </div>
+
+            <div class="col-3 card-cards text-center p-3">
+
+                <h2 class="cap-l-l ">Files Templates</h2>
+
+                <p id="p-light">
+                    <br>Help you to create coding files
+                    like <br> web Dev, python, etc...
+                    and more Files Templates.
+                </p>
+
+            </div>
+
+        </div>
+
+
+        <div class="row container  mb-5 d-flex justify-content-between">
+
+            <div class="col-3 card-cards text-center p-3">
+
+                <h2 class="cap-l-l ">EWW</h2>
+
+                <p id="p-light">
+                    <br>Supporting ElKowars wacky widgets(EWW), comes with EWW pre-installed/configured.
+                </p>
+
+            </div>
+
+            <div class="col-3 card-cards text-center p-3">
+
+                <h2 class="cap-l-l ">zsh</h2>
+
+                <p id="p-light">
+                    <br>Exodia comes zsh pre-installed
+                    and pre-configured
+                    <br>zsh is the default shell
+                </p>
+
+            </div>
+
+            <div class="col-3 card-cards text-center p-3">
+
+                <h2 class="cap-l-l ">PredatorSense</h2>
+
+                <p id="p-light">
+                    <br>A kernel module to control RGB & Fan speed in Linux for Acer Predator Laptops
+                    via:
+                    <br>
+                    <code class="code-grad" style=" background-color: #010D16; color: #05EEFF;">Predator-Sense-CLI</code>
+                    <br>
+                    <code class="code-grad" style=" background-color: #010D16; color: #05EEFF;">Predator-Sense-GUI</code>
+                </p>
+
+            </div>
+
+        </div>
+
+        <div class="row container  mb-5 d-flex justify-content-between">
+
+            <div class="col-3 card-cards text-center p-3">
+
+                <h2 class="cap-l-l ">CyberSecurity Tools</h2>
+
+                <p id="p-light">
+                    <br>Support tools for all CyberSecurity fields
+                    using BlackArch Repos & Exodia Repos
+                </p>
+
+            </div>
+
+            <div class="col-3 card-cards text-center p-3">
+
+                <h2 class="cap-l-l ">BIOS & UEFI</h2>
+
+                <p id="p-light">
+                    <br>Supporting both BIOS & UEFI
+                </p>
+
+            </div>
+
+            <div class="col-3 card-cards text-center p-3">
+
+                <h2 class="cap-l-l ">Plymouth</h2>
+
+                <p id="p-light">
+                    <br>Supporting <code class="code-grad" style=" background-color: #010D16; color: #05EEFF;">Plymouth</code>
+                    <br>
+                    <code class="code-grad" style=" background-color: #010D16; color: #05EEFF;">exodia-plymouth</code> is the default theme
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+ </section>
+
+
+<!-- benefits -->
+
+
+<section class="benifets">   
+    <div class="internal-box benf-cont container p-5">
+      <div class="row">
+       <div class="col-6">
+        <h1 class="h-grad">Benifets</h1>
+        <div class="ben-list">
+            <br>
+            <br>
+            <ul>
+                <li id="p-light">Exodia OS Comes with <span class="cap-l"> BSPWM </span>and 20+ tailor-made fancy Themes.</li>
+                <li id="p-light"><span class="cap-l">Cybersecurity</span> tools are preinstalled on Exodia OS.</li>
+                <li id="p-light">Currently, 3 <span class="cap-l">Editions exist: Home, Acer-Predator, and Wireless.</span></li>
+                <li id="p-light">Currently, 3 <span class="cap-l"> window managers </span>are available: <span class="cap-l"> BSPWM, DWM and I3WM  </span> <br> we will add more <span class="cap-l">DEs, WMs and WCs</span>.</li>
+                <li id="p-light">Easy installation with<span class="cap-l"> Calamares</span> installer.</li>
+                <li id="p-light"> Exodia is a <span class="cap-l">Rolling Release</span>(Always up to date)</li>
+                <li id="p-light">supporting <span class="cap-l"> AUR </span>Repos (with yay)</li>
             </ul>
-          </div>
-    </footer>
+        </div>
+    </div>
+    <div class="col-6 benf-img h-100 d-flex justify-content-center align-items-center">
+        <img src="./Images/benf-rit-bg.png"  alt="">
+    </div>
+ </div>            
+</div>
+</section>
+ <!-- Footer -->
+
+
+<footer > 
+    <div class="row">
+      <div class="row col-6  ">
+        <div class="col-5">
+            <h4 class="cap-l-l m-4">Developers</h4> 
+            <ul class="foot-list text-light d-flex flex-column align-items-start">
+                <li><a href="https://github.com/mmsaeed509" target="_blank">Ozil <code class="code-grad">[Tech Lead, Core Dev]</code></a></li>
+                <li><a href="https://github.com/youssefemadhassan66" target="_blank">Joe <code class="code-grad">[Web Dev]</code></a></li>
+                <li><a href="https://github.com/AbdallahAdham" target="_blank">Budas <code class="code-grad">[source code review]</code></a></li>
+                <li><a href="https://github.com/OmarEsmail211" target="_blank">Don som3a <code class="code-grad">[Docs Maintainer]</code></a></li>
+                <li><a href="team.html" target="_blank">Team</a></li>
+            </ul>
+        </div>
+        
+        <div class="col-4">
+            <h4 class="cap-l-l my-4 mx-3">Editions src code</h4>
+            <ul class="foot-list text-light d-flex flex-column ">
+                <li><a href="https://github.com/Exodia-OS/exodia-home-ISO" target="_blank">Home</a></li>
+                <li><a href="https://github.com/Exodia-OS/exodia-acer-predator-ISO" target="_blank">Acer-Predator</a></li>
+                <li><a href="https://github.com/Exodia-OS/exodia-wireless-ISO" target="_blank">Wireless</a></li>
+                <li><a href="https://github.com/Exodia-OS/exodia-dark-ISO" target="_blank">Dark</a></li>
+            </ul>
+        </div>  
+
+        <div class="col-3">
+            <h4 class="cap-l-l m-4">Issues</h4>
+            <ul class="foot-list text-light d-flex flex-column align-items-start">
+                <li><a href="https://github.com/Exodia-OS/exodia-home-ISO/issues" target="_blank">Home</a></li>
+                <li><a href="https://github.com/Exodia-OS/exodia-acer-predator-ISO/issues" target="_blank">Acer-Predator</a></li>
+                <li><a href="https://github.com/Exodia-OS/exodia-wireless-ISO/issues" target="_blank">Wireless</a></li>
+                <li><a href="https://github.com/Exodia-OS/exodia-dark-ISO/issues" target="_blank">Dark</a></li>
+            </ul>
+        </div>
+
+    </div>
+
+    <div class="row h-75 col-6  align-items-center justify-content-end foot-likns ">
+        <div class="col-6 d-flex flex-column ">
+            <h4  class="m-4 cap-l-l" style="color: #05EEFF;">Community</h4>
+            <!-- Discord -->
+            <ul class="d-flex links-list justify-content-start row">
+                <li class="col-4"><a href="https://discord.gg/wPDyfR5AV9" target="_blank"><svg xmlns="http://www.w3.org/2000/svg"  fill="currentColor" class="bi bi-discord icon-cy" viewBox="0 0 16 16">
+                    <path d="M13.545 2.907a13.2 13.2 0 0 0-3.257-1.011.05.05 0 0 0-.052.025c-.141.25-.297.577-.406.833a12.2 12.2 0 0 0-3.658 0 8 8 0 0 0-.412-.833.05.05 0 0 0-.052-.025c-1.125.194-2.22.534-3.257 1.011a.04.04 0 0 0-.021.018C.356 6.024-.213 9.047.066 12.032q.003.022.021.037a13.3 13.3 0 0 0 3.995 2.02.05.05 0 0 0 .056-.019q.463-.63.818-1.329a.05.05 0 0 0-.01-.059l-.018-.011a9 9 0 0 1-1.248-.595.05.05 0 0 1-.02-.066l.015-.019q.127-.095.248-.195a.05.05 0 0 1 .051-.007c2.619 1.196 5.454 1.196 8.041 0a.05.05 0 0 1 .053.007q.121.1.248.195a.05.05 0 0 1-.004.085 8 8 0 0 1-1.249.594.05.05 0 0 0-.03.03.05.05 0 0 0 .003.041c.24.465.515.909.817 1.329a.05.05 0 0 0 .056.019 13.2 13.2 0 0 0 4.001-2.02.05.05 0 0 0 .021-.037c.334-3.451-.559-6.449-2.366-9.106a.03.03 0 0 0-.02-.019m-8.198 7.307c-.789 0-1.438-.724-1.438-1.612s.637-1.613 1.438-1.613c.807 0 1.45.73 1.438 1.613 0 .888-.637 1.612-1.438 1.612m5.316 0c-.788 0-1.438-.724-1.438-1.612s.637-1.613 1.438-1.613c.807 0 1.451.73 1.438 1.613 0 .888-.631 1.612-1.438 1.612"/>
+                  </svg></a></li>
+                <!-- Telegram -->
+                <li class="col-4"><a href="https://t.me/exodiaos" target="_blank"><svg xmlns="http://www.w3.org/2000/svg"  fill="currentColor" class="bi bi-telegram icon-cy" viewBox="0 0 16 16">
+                    <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M8.287 5.906q-1.168.486-4.666 2.01-.567.225-.595.442c-.03.243.275.339.69.47l.175.055c.408.133.958.288 1.243.294q.39.01.868-.32 3.269-2.206 3.374-2.23c.05-.012.12-.026.166.016s.042.12.037.141c-.03.129-1.227 1.241-1.846 1.817-.193.18-.33.307-.358.336a8 8 0 0 1-.188.186c-.38.366-.664.64.015 1.088.327.216.589.393.85.571.284.194.568.387.936.629q.14.092.27.187c.331.236.63.448.997.414.214-.02.435-.22.547-.82.265-1.417.786-4.486.906-5.751a1.4 1.4 0 0 0-.013-.315.34.34 0 0 0-.114-.217.53.53 0 0 0-.31-.093c-.3.005-.763.166-2.984 1.09"/>
+                  </svg></a></li>
+                <!-- GitHub -->
+                <li class="col-4"><a href="https://github.com/Exodia-OS" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi bi-github icon-cy" viewBox="0 0 16 16">
+                    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8"/>
+                  </svg></a></li>
+                </ul>
+                <!-- Reddit -->
+                <ul class="d-flex links-list row justify-content-start">
+                  <li class="col-3"><a href="https://www.reddit.com/r/ExodiaOS" target="_blank"><svg xmlns="http://www.w3.org/2000/svg"  fill="currentColor" class="bi bi-reddit icon-cy" viewBox="0 0 16 16">
+                    <path d="M6.167 8a.83.83 0 0 0-.83.83c0 .459.372.84.83.831a.831.831 0 0 0 0-1.661m1.843 3.647c.315 0 1.403-.038 1.976-.611a.23.23 0 0 0 0-.306.213.213 0 0 0-.306 0c-.353.363-1.126.487-1.67.487-.545 0-1.308-.124-1.671-.487a.213.213 0 0 0-.306 0 .213.213 0 0 0 0 .306c.564.563 1.652.61 1.977.61zm.992-2.807c0 .458.373.83.831.83s.83-.381.83-.83a.831.831 0 0 0-1.66 0z"/>
+                    <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-3.828-1.165c-.315 0-.602.124-.812.325-.801-.573-1.9-.945-3.121-.993l.534-2.501 1.738.372a.83.83 0 1 0 .83-.869.83.83 0 0 0-.744.468l-1.938-.41a.2.2 0 0 0-.153.028.2.2 0 0 0-.086.134l-.592 2.788c-1.24.038-2.358.41-3.17.992-.21-.2-.496-.324-.81-.324a1.163 1.163 0 0 0-.478 2.224q-.03.17-.029.353c0 1.795 2.091 3.256 4.669 3.256s4.668-1.451 4.668-3.256c0-.114-.01-.238-.029-.353.401-.181.688-.592.688-1.069 0-.65-.525-1.165-1.165-1.165"/>
+                  </svg></a></li>
+                </ul>
+        </div>
+    </div>
+        <div class="copy-right text-light mx-3">
+            <p id="p-light"> <code class="code-grad">Exodia OS is licensed under the GPl-3 License  &copy; <span id="currentYear"></span> Exodia OS Development & Cyb3rTh1eveZ Team</code></p>
+        </div>
+
+    </div>      
+ </div>
+</footer>
+ 
+
+
+
+
+
+
+
+ <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>  
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <script src="Script/script.js"></script>
 </body>
+</html>

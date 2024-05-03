@@ -1,0 +1,134 @@
+/*
+.typed-os
+{
+    position: relative;
+}
+.typed-os span
+{
+    position: relative;
+}
+
+.typed-os span::before
+{
+    content: "Hacker";
+    color: #05EEFF;
+    animation: words 20s infinite;
+}
+.typed-os span::after
+{
+    content: "";
+    position: absolute;
+    width: calc(100% + 8px);
+    height: 100%;
+    background-color: ;
+    border-left: 2px solid #05EEFF;
+    right: -8px;
+    animation: cursor .8s infinite, typing 20s steps(14) infinite;
+
+}
+@keyframes cursor{
+    to {
+
+        border-left: 2px solid transparent;
+    }
+    
+}
+
+@keyframes words {
+
+0%,20%{
+    content: "Hackers";
+}
+21%,40%
+{
+    content: "Developers";
+}
+41%,60%
+{
+    content: "Network engineers";
+}
+61%,80%
+{
+    content: "Programmers";
+}
+81%,100%
+{
+    content: "Cyber security professionals";
+}
+}
+
+
+@keyframes typing {
+    10%,15%,30%,35%,50%,55%,70%,75%,90%,95%{
+        width: 0;
+    }
+    5%,20%,25%,40%,45%,60%,65%,80%,85%{
+        width: calc(100% + 8px);
+    }
+}
+*/
+
+/* Flash animation */
+
+@keyframes flash {
+    0%, 50%, 100% {
+        color: #bcbcbcd5;
+    }
+    25%, 75% {
+        color: #01a8b4;
+    }
+}
+
+@keyframes flash-Acer {
+    0%, 50%, 100% {
+        color: #bcbcbcd5;
+    }
+    25%, 75% {
+        color: #A600E7;
+    }
+}
+
+@keyframes flash-Wireless {
+    0%, 50%, 100% {
+        color: #bcbcbcd5;
+    }
+    25%, 75% {
+        color: #a4133c;
+    }
+}
+
+@keyframes flash-Dark {
+    0%, 50%, 100% {
+        color: #bcbcbcd5;
+    }
+    25%, 75% {
+        color: #0466c8;
+    }
+}
+@keyframes flash-ARM {
+    0%, 50%, 100% {
+        color: #bcbcbcd5;
+    }
+    25%, 75% {
+        color: #4ad66d;
+    }
+}
+
+
+.flashing {
+    animation: flash 5s  alternate infinite;
+}
+.flashing-Acer {
+    animation: flash-Acer 5s  alternate infinite;
+}
+.flashing-Wireless {
+    animation: flash-Wireless 5s  alternate infinite;
+}
+.flashing-Dark {
+    animation: flash-Dark 5s  alternate infinite;
+}
+.flashing-ARM {
+    animation: flash-ARM 5s  alternate infinite;
+}
+
+
